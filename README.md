@@ -5,15 +5,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavankumargujjar&label=Profile%20views&color=0e75b6&style=flat" alt="pavankumargujjar" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning and AI**
+- 🌱 I’m currently learning **Android development and Machine Learning**
+- I'm intrested in **Appication development and AI...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pavankumargujjar?tab=repositories](https://github.com/pavankumargujjar?tab=repositories)
 
-- 💬 Ask me about **pyhton, java, Android**
+- 💬 Ask me about **pyhton, java**
 
 - 📫 How to reach me **pavangujjar2001@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
