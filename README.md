@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavankumargujjar&label=Profile%20views&color=0e75b6&style=flat" alt="pavankumargujjar" /> </p>
 
 - 🌱 I’m currently learning **Android development and Machine Learning**
-- I'm intrested in **Appication development and AI...**
+- I'm intrested in **Application development and AI...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pavankumargujjar?tab=repositories](https://github.com/pavankumargujjar?tab=repositories)
 
