@@ -1,16 +1,16 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+
 <h1 align="center">Hi 👋, I'm G Pavan Kumar</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate on coding from India</h3>
 <img align="right" alt="Coding" width="400" src="https://codeandhack.com/wp-content/uploads/2018/10/Most-in-demand-programming-languages.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavankumargujjar&label=Profile%20views&color=0e75b6&style=flat" alt="pavankumargujjar" /> </p>
 
-- 🌱 I’m currently learning **Android development and Machine Learning**
-- I'm intrested in **Application development and AI...**
+- 🌱 I’m currently learning **Machine Learning with python**
+- I'm intrested in **ML and AI...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pavankumargujjar?tab=repositories](https://github.com/pavankumargujjar?tab=repositories)
 
-- 💬 Ask me about **pyhton, java**
+- 💬 Ask me about **c, pyhton, java**
 
 - 📫 How to reach me **pavangujjar2001@gmail.com**
 
