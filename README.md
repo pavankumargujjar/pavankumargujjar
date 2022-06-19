@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavankumargujjar&label=Profile%20views&color=0e75b6&style=flat" alt="pavankumargujjar" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning with python**
+- 🌱 I’m currently learning **JAVA Programming Skills**
 - I'm intrested in **ML and AI...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pavankumargujjar?tab=repositories](https://github.com/pavankumargujjar?tab=repositories)
