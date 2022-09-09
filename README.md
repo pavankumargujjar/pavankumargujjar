@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pavankumargujjar?tab=repositories](https://github.com/pavankumargujjar?tab=repositories)
 
-- 💬 Ask me about **C, pyhton, HTML, CSS**
+- 💬 Ask me about **C, Pyhton, HTML, CSS**
 
 - 📫 How to reach me **pavangujjar2001@gmail.com**
 
